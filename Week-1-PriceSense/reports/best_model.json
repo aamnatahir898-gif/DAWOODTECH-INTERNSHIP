@@ -1,0 +1,26 @@
+{
+  "best_model": "Random Forest",
+  "selection_metric": "5-fold cross-validation MAE",
+  "best_cv_mae": 287510.6156292517,
+  "best_cv_rmse": 1225712.0779324814,
+  "best_cv_r2": 0.905326788101745,
+  "baseline_cv_mae": 1853161.6020732753,
+  "better_than_baseline": true,
+  "n_train_rows": 70817,
+  "feature_columns": [
+    "title",
+    "location",
+    "engine_type",
+    "transmission",
+    "registered_in",
+    "color",
+    "assembly",
+    "body_type",
+    "car_features",
+    "mileage_km",
+    "engine_capacity_cc",
+    "model_year_clean",
+    "car_age",
+    "mileage_per_year"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "best_model": "Random Forest",
+  "evaluation": "test_set",
+  "test_MAE_PKR": 285144.9497991904,
+  "test_RMSE_PKR": 1312348.5681718308,
+  "test_R2": 0.8959476691703262,
+  "baseline_MAE_PKR": 1835961.8751765038,
+  "baseline_RMSE_PKR": 4162046.2556569,
+  "baseline_R2": -0.04656742899796362,
+  "training_rows": 70817,
+  "testing_rows": 17705,
+  "feature_columns": [
+    "title",
+    "location",
+    "engine_type",
+    "transmission",
+    "registered_in",
+    "color",
+    "assembly",
+    "body_type",
+    "car_features",
+    "mileage_km",
+    "engine_capacity_cc",
+    "model_year_clean",
+    "car_age",
+    "mileage_per_year"
+  ]
+}
