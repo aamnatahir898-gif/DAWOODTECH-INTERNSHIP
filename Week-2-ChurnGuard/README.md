@@ -97,7 +97,6 @@ The default threshold of 0.50 treats a missed churner and a wasted offer as equa
 - Value of a lost customer: $200
 - Chance that an offer saves the customer: 30%
 
-These numbers are my assumptions for this project, not real company data. Change them in the code if your business numbers are different.
 
 ## 5. Web Interface
 
