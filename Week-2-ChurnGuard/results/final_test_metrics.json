@@ -1,0 +1,19 @@
+{
+    "model": "XGBoost_Weighted",
+    "threshold": 0.58,
+    "accuracy": 0.7764371894960965,
+    "precision": 0.560081466395112,
+    "recall": 0.7352941176470589,
+    "f1_score": 0.6358381502890174,
+    "roc_auc": 0.8482833449585367,
+    "pr_auc": 0.6710308169849349,
+    "brier_score": 0.16122034963631315,
+    "true_positive": 275,
+    "false_positive": 216,
+    "true_negative": 819,
+    "false_negative": 99,
+    "targeted_customers": 491,
+    "baseline_cost": 74800.0,
+    "estimated_cost": 68120.0,
+    "estimated_savings": 6680.0
+}

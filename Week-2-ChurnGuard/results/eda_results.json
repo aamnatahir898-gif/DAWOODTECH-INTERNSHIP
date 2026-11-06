@@ -1,0 +1,60 @@
+{
+    "total_customers": 7043,
+    "churned_customers": 1869,
+    "retained_customers": 5174,
+    "churn_percentage": 26.54,
+    "retained_percentage": 73.46,
+    "imbalance_ratio": 2.77,
+    "numeric_average_by_churn": {
+        "tenure": {
+            "No": 37.57,
+            "Yes": 17.98
+        },
+        "MonthlyCharges": {
+            "No": 61.27,
+            "Yes": 74.44
+        },
+        "TotalCharges": {
+            "No": 2549.91,
+            "Yes": 1531.8
+        }
+    },
+    "churn_rates_by_category": {
+        "Contract": {
+            "Month-to-month": 42.71,
+            "One year": 11.27,
+            "Two year": 2.83
+        },
+        "InternetService": {
+            "Fiber optic": 41.89,
+            "DSL": 18.96,
+            "No": 7.4
+        },
+        "PaymentMethod": {
+            "Electronic check": 45.29,
+            "Mailed check": 19.11,
+            "Bank transfer (automatic)": 16.71,
+            "Credit card (automatic)": 15.24
+        },
+        "TechSupport": {
+            "No": 41.64,
+            "Yes": 15.17,
+            "No internet service": 7.4
+        },
+        "OnlineSecurity": {
+            "No": 41.77,
+            "Yes": 14.61,
+            "No internet service": 7.4
+        },
+        "SeniorCitizen": {
+            "Senior Citizen": 41.68,
+            "Not Senior Citizen": 23.61
+        }
+    },
+    "correlation_with_churn": {
+        "tenure": -0.352,
+        "MonthlyCharges": 0.193,
+        "TotalCharges": -0.198,
+        "SeniorCitizen": 0.151
+    }
+}

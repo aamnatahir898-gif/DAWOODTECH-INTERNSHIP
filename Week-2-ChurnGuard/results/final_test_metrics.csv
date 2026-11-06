@@ -1,0 +1,2 @@
+model,threshold,accuracy,precision,recall,f1_score,roc_auc,pr_auc,brier_score,true_positive,false_positive,true_negative,false_negative,targeted_customers,baseline_cost,estimated_cost,estimated_savings
+XGBoost_Weighted,0.58,0.7764371894960965,0.560081466395112,0.7352941176470589,0.6358381502890174,0.8482833449585367,0.6710308169849349,0.16122034963631315,275,216,819,99,491,74800.0,68120.0,6680.0
