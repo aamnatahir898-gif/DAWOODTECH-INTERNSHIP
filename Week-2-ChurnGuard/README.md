@@ -114,15 +114,14 @@ These numbers are my assumptions for this project, not real company data. Change
 
 ```
 ChurnGuard/
-├── app.py                  # Streamlit app
-├── check_model.py          # Quick check that the model loads
-├── requirements.txt        # Python packages
-├── data/                   # Raw and cleaned CSV files
-├── models/                 # Saved preprocessor, classifier and final model
-├── results/                # Metrics, SHAP values, threshold and CV results
-├── plots/                  # Charts from the notebook
-├── checkpoints/            # Train/test split and CV checkpoints
-└── docs/screenshots/       # Screenshots for this README
+├── app.py                  
+├── requirements.txt        
+├── data/                   
+├── models/                 
+├── results/                
+├── plots/                
+├── checkpoints/            
+└── docs/screenshots/    
 ```
 
 ## 7. How to Run
