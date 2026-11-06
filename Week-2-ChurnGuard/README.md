@@ -99,9 +99,7 @@ The default threshold of 0.50 treats a missed churner and a wasted offer as equa
 
 These numbers are my assumptions for this project, not real company data. Change them in the code if your business numbers are different.
 
-## 5. Screenshots
-
-> Add screenshots to the `plots/screenshots/` folder with these file names, then they will show here automatically.
+## 5. Web Interface
 
 | Page | Preview |
 |---|---|
