@@ -154,22 +154,6 @@ ChurnGuard/
 
 5. Open the link shown in the terminal, usually `http://localhost:8501`.
 
-### If the project is in a different folder
-
-The app looks for the `models` and `results` folders next to `app.py`. If your project is somewhere else, set this variable before running:
-
-```bash
-set CHURNGUARD_DIR=path\to\ChurnGuard       # Windows
-export CHURNGUARD_DIR=/path/to/ChurnGuard   # Mac/Linux
-```
-
-### Check the model
-
-To confirm the saved model loads and gives the expected results:
-
-```bash
-python check_model.py
-```
 
 ## 8. App Pages
 
