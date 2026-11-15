@@ -1,0 +1,22 @@
+{
+  "features": [
+    "recency_days",
+    "frequency",
+    "monetary",
+    "avg_order_value",
+    "unique_products"
+  ],
+  "k": 4,
+  "recency_edges": [
+    75.0,
+    149.0,
+    221.0,
+    340.0
+  ],
+  "monetary_edges": [
+    39.9,
+    69.9,
+    109.9,
+    179.9
+  ]
+}

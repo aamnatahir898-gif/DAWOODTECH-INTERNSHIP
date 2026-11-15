@@ -1,0 +1,12 @@
+{
+  "chosen_k": 4,
+  "kmeans_silhouette": 0.3728565551214682,
+  "kmeans_ari_vs_rule_segments": 0.10092458564984653,
+  "gmm_silhouette": 0.2208911006862152,
+  "gmm_bic": -2191809.3382942104,
+  "gmm_ari_vs_rule_segments": 0.0727897150629341,
+  "dbscan_eps": 0.34737895866232643,
+  "dbscan_clusters": 12,
+  "dbscan_noise_share": 0.011103306345274625,
+  "dbscan_silhouette_excluding_noise": 0.47412154867742573
+}

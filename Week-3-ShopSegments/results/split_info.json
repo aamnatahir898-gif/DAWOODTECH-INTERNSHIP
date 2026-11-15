@@ -1,0 +1,9 @@
+{
+  "data_end": "2018-08-29",
+  "validation_cutoff": "2018-05-01",
+  "test_cutoff": "2018-06-30",
+  "train_rows": 95955,
+  "validation_rows": 14683,
+  "test_rows": 14242,
+  "customers_in_segmentation": 81147
+}

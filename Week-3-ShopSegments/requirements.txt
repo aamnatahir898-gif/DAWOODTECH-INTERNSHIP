@@ -1,0 +1,11 @@
+implicit
+scikit-learn
+numpy
+pandas
+plotly
+scipy
+umap-learn
+pyarrow
+streamlit
+joblib
+matplotlib
