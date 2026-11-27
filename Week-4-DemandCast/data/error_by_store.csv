@@ -1,0 +1,6 @@
+model,CA_1,TX_1
+LightGBM,31.12,32.76
+Naive,66.06,46.78
+Prophet,37.17,30.93
+SARIMA,44.64,32.25
+Seasonal Naive,39.59,42.71
