@@ -2,8 +2,6 @@
 
 DemandCast is a small forecasting project that helps a store decide how much stock to order. It predicts the next 28 days of sales for each store, category and item, shows a range around that prediction, and suggests an order quantity.
 
-Live demo: [add your Streamlit link here]
-
 ## The problem
 
 Retailers usually face two kinds of loss. If they order too much, the extra stock sits on shelves and money gets stuck. If they order too little, customers leave and sales are lost. I wanted to see whether a simple data-driven forecast could help a manager pick a better order quantity than guessing.
