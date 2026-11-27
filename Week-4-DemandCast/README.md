@@ -65,14 +65,6 @@ Some useful patterns from the EDA:
 - Eid windows were about 13% higher.
 - Raw sales are stationary according to the ADF test (p = 0.007).
 
-## Screenshots
-
-Add your screenshots here after you run the app:
-
-- `screenshots/dashboard.png`: the Streamlit dashboard with a forecast and order suggestion
-- `screenshots/model_comparison.png`: the model comparison chart
-- `screenshots/eda_overview.png`: trend and seasonality
-
 ## Project structure
 
 ```
